@@ -1,4 +1,4 @@
 # Deploy Flask App Locally
 
 ## Quick Setup - watch the video and follow the steps!
-[![DialoGPTRunningOnDocker (Time 0_02_11;12)](https://user-images.githubusercontent.com/72572922/142128680-57dc496b-7c3f-47be-a785-e50770323308.png)](https://youtu.be/JRAIZeZ7IfA)
+[![GothamChatbotRunning (Time 0_03_43;22)](https://user-images.githubusercontent.com/72572922/142130928-091cd65e-e842-447a-8906-7fb5221287b2.png)](https://youtu.be/JRAIZeZ7IfA)
