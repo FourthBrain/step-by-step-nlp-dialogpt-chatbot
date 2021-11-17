@@ -12,6 +12,7 @@ A bulletproof plan.
 
 ## Step by Step NLP: Data to Deployment
 [A workshop on how to build and deploy a virtual chatbot using Natural Language Processing](https://www.eventbrite.com/e/step-by-step-natural-language-processing-workshop-from-data-to-deployment-tickets-201001560077)
+
 📹👇
 (Event recording coming soon!)
 (YouTube videos hide behind the images below!)
