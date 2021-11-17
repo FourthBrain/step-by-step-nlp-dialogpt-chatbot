@@ -17,7 +17,7 @@ A bulletproof plan.
 (Event recording coming soon!)
 (YouTube videos hide behind the images below!)
 
-## How To Use These Videos
+# How To Use These Videos
 The following videos were part of original workshop, and will help you to deploy the [DialoGPT-medium](https://huggingface.co/microsoft/DialoGPT-medium) chatbot to your local machine or to the cloud.  These videos were shot on a Windows machine running Ubuntu on WSL2.
 
 ## Part 1: Get Chatbot Running on Virtual Machine in Jupyter Notebook
