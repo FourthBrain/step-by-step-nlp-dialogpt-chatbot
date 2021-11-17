@@ -21,7 +21,7 @@ A bulletproof plan.
 The following videos were part of original workshop, and will help you to deploy the [DialoGPT-medium](https://huggingface.co/microsoft/DialoGPT-medium) chatbot to your local machine or to the cloud.  These videos were shot on a Windows machine running Ubuntu on WSL2.  Google Cloud Platform was used to deploy the chatbot remotely.
 
 ### Part 1: Get Chatbot Running on Virtual Machine in Jupyter Notebook
-[![GetGPTRunning (Time 0_00_20;05)](https://user-images.githubusercontent.com/72572922/142128311-fbd624f5-fdc2-4aeb-b3e5-4f8c48849b03.png)](https://youtu.be/9i_dx6PBiP4)
+[![GetGPTRunning (Time 0_00_20;05)](https://user-images.githubusercontent.com/72572922/142128311-fbd624f5-fdc2-4aeb-b3e5-4f8c48849b03.png)](https://youtu.be/VHMBDBdwTY0)
 
 ### Part 2: Open-Source Chatbot UI and DialoGPT Intelligence Upgrade
 [![GothamChatbotRunning (Time 0_03_43;22)](https://user-images.githubusercontent.com/72572922/142130786-e8b12f65-df49-4f37-990e-f0943b0fe190.png)](https://youtu.be/JRAIZeZ7IfA)
