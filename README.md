@@ -20,3 +20,12 @@ Use this code to deploy the [DialoGPT-medium](https://huggingface.co/microsoft/D
 
 ## Part 4: Deploying DialoGPT in the Cloud
 [![DialoGPTRunningOnGCP (Time 0_03_29;04)](https://user-images.githubusercontent.com/72572922/142128920-2fd5646d-03a1-4c03-a3eb-0848e1a10f7b.png)](https://youtu.be/jPfQv8hh_pw)
+
+
+# Shoutouts 
+Big ups to Hugging Face for their awesome repo of models and streamlining all things SOTA ML modeling; check out DialoGPT-medium [here](https://huggingface.co/microsoft/DialoGPT-medium)
+
+Thanks to [bhargavramdr](https://github.com/bhargavramdr) for the [right chatbot UI](https://github.com/bhargavramdr/Gotham-chatbot) at the right time.  Happy Halloween 2021! 
+
+# License
+All source from FourthBrain is free to use, but microsoft/DialoGPT is licensed under the MIT License.
