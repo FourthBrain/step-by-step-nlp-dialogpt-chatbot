@@ -17,7 +17,9 @@ A bulletproof plan.
 [![Design_YT_DLAIEventBrite](https://user-images.githubusercontent.com/72572922/142292687-fe562668-fdbf-4028-9aa8-62ee5cb4c86c.PNG)](https://youtu.be/D9hY8pZe7hk)
 
 After the event, we heard your feedback!  Greg created a step by step walkthrough, complete with stumbles and rewinds, that takes about 75 minutes to see everything about what happens behind the scenes.
-[![FullRunThrough (Time 0_10_41;01)_small](https://user-images.githubusercontent.com/72572922/142295578-41cf946b-8c70-481e-9247-97aafb1e88bf.png)](https://youtu.be/cQzqaKw5y2I)
+<p align="center">
+  [![FullRunThrough (Time 0_10_41;01)_small](https://user-images.githubusercontent.com/72572922/142295578-41cf946b-8c70-481e-9247-97aafb1e88bf.png)](https://youtu.be/cQzqaKw5y2I)
+</p>
 
 ## How To Use These Videos
 The following videos were part of original workshop, and will help you to deploy the [DialoGPT-medium](https://huggingface.co/microsoft/DialoGPT-medium) chatbot to your local machine or to the cloud.  
