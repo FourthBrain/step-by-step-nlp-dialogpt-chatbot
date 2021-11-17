@@ -12,6 +12,7 @@ A bulletproof plan.
 
 Use this code to deploy the [DialoGPT-medium](https://huggingface.co/microsoft/DialoGPT-medium) chatbot to your local machine or to the cloud using Flask and Docker
 
+(YouTube videos hide behind the images below!)
 
 ## Part 1: Get Chatbot Running on Virtual Machine in Jupyter Notebook
 [![GetGPTRunning (Time 0_00_20;05)](https://user-images.githubusercontent.com/72572922/142128311-fbd624f5-fdc2-4aeb-b3e5-4f8c48849b03.png)](https://youtu.be/9i_dx6PBiP4)
