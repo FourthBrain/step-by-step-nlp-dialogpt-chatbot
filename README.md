@@ -11,8 +11,7 @@ When the superintelligent AI is finally ready for transfer learning, their produ
 A bulletproof plan.  
 
 ## Step by Step NLP: Data to Deployment
-[A workshop on how to build and deploy a virtual chatbot using Natural Language Processing](https://www.eventbrite.com/e/step-by-step-natural-language-processing-workshop-from-data-to-deployment-tickets-201001560077)
-You can check out the slide [here](https://docs.google.com/presentation/d/140d_Rab-Tt8dpBN-DQmQeoY2LG7LCFiA/edit)
+[A workshop on how to build and deploy a virtual chatbot using Natural Language Processing](https://www.eventbrite.com/e/step-by-step-natural-language-processing-workshop-from-data-to-deployment-tickets-201001560077). You can check out the slide [here](https://docs.google.com/presentation/d/140d_Rab-Tt8dpBN-DQmQeoY2LG7LCFiA/edit)
 
 📹👇
 [![Design_YT_DLAIEventBrite](https://user-images.githubusercontent.com/72572922/142292687-fe562668-fdbf-4028-9aa8-62ee5cb4c86c.PNG)](https://youtu.be/D9hY8pZe7hk)
