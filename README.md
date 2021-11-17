@@ -1,6 +1,12 @@
-Thus begins the chronicles of Dooracle; the company set to revolutionize the fortune telling industry with their moonshot project to build a fortune-telling chatbot.  
+Thus begins the chronicles of Dooracle; a fledgling digital product startup set to revolutionize the fortune telling industry.  
 
-The project is aimed at filling the demand for people who want their futures predicted. When the superintelligent AI is finally ready for transfer learning, their product will be there.  
+Their moonshot? 
+
+To build a fortune-telling chatbot.  
+
+The project is aimed at filling the demand for people who want their futures predicted. 
+
+When the superintelligent AI is finally ready for transfer learning, their product will be there.  
 
 A bulletproof plan.  
 
