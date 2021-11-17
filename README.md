@@ -10,15 +10,15 @@ When the superintelligent AI is finally ready for transfer learning, their produ
 
 A bulletproof plan.  
 
+📹👇
 # Step by Step NLP: Data to Deployment
 [A workshop on how to build and deploy a virtual chatbot using Natural Language Processing](https://www.eventbrite.com/e/step-by-step-natural-language-processing-workshop-from-data-to-deployment-tickets-201001560077)
 
-📹👇
 (Event recording coming soon!)
-
-Use this code to deploy the [DialoGPT-medium](https://huggingface.co/microsoft/DialoGPT-medium) chatbot to your local machine or to the cloud using Flask and Docker
-
 (YouTube videos hide behind the images below!)
+
+## How To Use These Videos
+The following videos were part of original workshop, and will help you to deploy the [DialoGPT-medium](https://huggingface.co/microsoft/DialoGPT-medium) chatbot to your local machine or to the cloud.  These videos were shot on a Windows machine running Ubuntu on WSL2.
 
 ## Part 1: Get Chatbot Running on Virtual Machine in Jupyter Notebook
 [![GetGPTRunning (Time 0_00_20;05)](https://user-images.githubusercontent.com/72572922/142128311-fbd624f5-fdc2-4aeb-b3e5-4f8c48849b03.png)](https://youtu.be/9i_dx6PBiP4)
