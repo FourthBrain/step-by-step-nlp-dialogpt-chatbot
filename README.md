@@ -1,16 +1,16 @@
 # Step by Step NLP: Data to Deployment
 [A workshop on how to build and deploy a virtual chatbot using Natural Language Processing](https://www.eventbrite.com/e/step-by-step-natural-language-processing-workshop-from-data-to-deployment-tickets-201001560077)
 
---
+----------
 Thus begins the chronicles of Dooracle; the company set to revolutionize the fortune telling industry with their moonshot project to build a fortune-telling chatbot.  
 
 The project is aimed at filling the demand for people who want their futures predicted. When the superintelligent AI is finally ready for transfer learning, their product will be there.  
 
 A bulletproof plan.
+----------
 
 📹👇
 (Event recording coming soon!)
---
 
 Use this code to deploy the [DialoGPT-medium](https://huggingface.co/microsoft/DialoGPT-medium) chatbot to your local machine or to the cloud using Flask and Docker
 
