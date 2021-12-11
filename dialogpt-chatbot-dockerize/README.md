@@ -12,7 +12,7 @@ git clone https://github.com/FourthBrain/step-by-step-nlp-dialogpt-chatbot.git
 #### Run it!
 ```
 cd ..
-cd dialogpt-chatbot-dockerize
-docker build -t dialogpt-chatbot-image
+cd step-by-step-nlp-dialogpt-chatbot/dialogpt-chatbot-dockerize
+docker build -t dialogpt-chatbot-image .
 docker run -d -p 8080:8080 dialogpt-chatbot-image
 ```
